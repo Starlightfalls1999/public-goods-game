@@ -1,0 +1,12 @@
+﻿  源.cpp
+C:\Users\Micalry Xavier\Documents\Visual Studio 2013\Projects\整体经验平均收益\整体经验平均收益\源.cpp(48,11): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Micalry Xavier\Documents\Visual Studio 2013\Projects\整体经验平均收益\整体经验平均收益\源.cpp(52,17): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Micalry Xavier\Documents\Visual Studio 2013\Projects\整体经验平均收益\整体经验平均收益\源.cpp(53,17): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Micalry Xavier\Documents\Visual Studio 2013\Projects\整体经验平均收益\整体经验平均收益\源.cpp(16,41): warning C4101: “j12”: 未引用的局部变量
+C:\Users\Micalry Xavier\Documents\Visual Studio 2013\Projects\整体经验平均收益\整体经验平均收益\源.cpp(13,12): warning C4101: “k”: 未引用的局部变量
+C:\Users\Micalry Xavier\Documents\Visual Studio 2013\Projects\整体经验平均收益\整体经验平均收益\源.cpp(16,21): warning C4101: “i12”: 未引用的局部变量
+C:\Users\Micalry Xavier\Documents\Visual Studio 2013\Projects\整体经验平均收益\整体经验平均收益\源.cpp(16,11): warning C4101: “i02”: 未引用的局部变量
+C:\Users\Micalry Xavier\Documents\Visual Studio 2013\Projects\整体经验平均收益\整体经验平均收益\源.cpp(13,42): warning C4101: “N”: 未引用的局部变量
+C:\Users\Micalry Xavier\Documents\Visual Studio 2013\Projects\整体经验平均收益\整体经验平均收益\源.cpp(28,8): warning C4101: “standard”: 未引用的局部变量
+C:\Users\Micalry Xavier\Documents\Visual Studio 2013\Projects\整体经验平均收益\整体经验平均收益\源.cpp(16,31): warning C4101: “j02”: 未引用的局部变量
+  整体经验平均收益.vcxproj -> C:\Users\Micalry Xavier\Documents\Visual Studio 2013\Projects\整体经验平均收益\Debug\整体经验平均收益.exe
